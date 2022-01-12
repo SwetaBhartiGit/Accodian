@@ -1,0 +1,12 @@
+.App {
+  display: block;
+  width: 50vw;
+  height: auto;
+  max-height: 100vh;
+  background-color: red;
+  margin: auto;
+  padding: 1.5%;
+  box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+}
