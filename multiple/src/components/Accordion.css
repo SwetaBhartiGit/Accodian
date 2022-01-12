@@ -1,0 +1,23 @@
+.accordion {
+    background-color: skyblue;
+    padding: 2%;
+    text-align: center;
+    width: 50%;
+    margin: 2% auto;
+}
+
+.show {
+    display: block;
+    background: yellowgreen;
+}
+
+.shownone {
+    display: none;
+}
+
+.accordion h2 {
+    width: 50%;
+    padding: 2% 5%;
+    cursor: pointer;
+    border: 2px solid red;
+}
