@@ -1,0 +1,31 @@
+.wrapper {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.accordion {
+  width: 500px;
+}
+
+.item {
+  background: #eaf0e1;
+  margin-bottom: 5px;
+  padding: 10px 20px;
+}
+
+.sample {
+  color: blue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.descrip {
+  color: red;
+  height: auto;
+  max-height: 100vh;
+} 
