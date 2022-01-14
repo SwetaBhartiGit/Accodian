@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+
+}
+.id{
+  background-color: rgb(185, 164, 204);
+  width:300px;
+  height: 400px;
+  margin-left: 530px;
+  
+
+}
+.datacell{
+  text-align: center;
+}
+.id1{
+  margin-top:15px;
+}
+
+
+button[type]{
+  border: none;
+  padding:0.4rem 1rem;
+  text-align: center;
+  margin-top: 1rem;
+  font-family: "Raleway",sans-serif;
+  border-radius: 0.3rem;
+  cursor:pointer;
+  outline: none;
+  
+}
+button[type]:hover{
+  background-color: darkblue;
+  color: aliceblue;
+  margin:center;
+
+}
+.showdatastyle {
+  width:450px;
+  height:45px;
+  padding:20px;
+  background:rgb(214, 226, 46);
+  color:red;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  margin-left: 450px;
+
+
+
+}
