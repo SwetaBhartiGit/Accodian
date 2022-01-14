@@ -1,0 +1,28 @@
+.accordion {
+    background-color: red;
+    padding: 2%;
+    text-align: center;
+    width: 50%;
+    margin: 2% auto;
+    display: flex;
+    justify-content: space-around;
+}
+.content {
+    padding: 1% 2%;
+    height: 0;
+    overflow: hidden;
+}
+.content.Display {
+    height: 100px;
+    overflow: auto;
+    text-align: justify;
+}
+
+.content.Display h2 {
+    color: antiquewhite;
+}
+
+button {
+    padding: 2% 3%;
+    border-radius: 2%;
+}
